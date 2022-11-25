@@ -1,4 +1,4 @@
-# Projeto NLW eSports
+# Projeto Calculadora IMC
 
 ![Preview](/.github/preview.png)
 
