@@ -2,7 +2,7 @@
 
 ![Preview](/.github/preview.png)
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído para praticar meus conhecimentos básicos no front-end.
 
 [Clique aqui para acessar] (https://santosrobertin.github.io/CalculadoraIMC)
 
