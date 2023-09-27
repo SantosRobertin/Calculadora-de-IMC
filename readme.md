@@ -1,6 +1,6 @@
 # Projeto Calculadora de IMC
 
-![preview](./.github/PreviewCalcIMC.png)
+![Preview](./.github/PreviewCalcIMC.png)
 
 Projeto construído para praticar meus conhecimentos em HTML, CSS e JavaSCript.
 
