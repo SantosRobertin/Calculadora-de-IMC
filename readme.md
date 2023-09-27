@@ -4,7 +4,7 @@
 
 Projeto construído para praticar meus conhecimentos em HTML, CSS e JavaSCript.
 
-[Clique aqui para acessar] (https://santosrobertin.github.io/Projeto-de-IMC)
+[Clique aqui para acessar] (https://santosrobertin.github.io/Calculadora-de-IMC)
 
 ## Tecnologias
 
