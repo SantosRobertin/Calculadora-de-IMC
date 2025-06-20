@@ -1,17 +1,38 @@
-# Projeto Calculadora de IMC
+<h1 align="center"> Coffe Page </h1>
 
-![preview](.github/PreviewCalcIMC.png)
+<p align="center">
+Roberto Santos <br/>
+Desenvolvedor Web</h3>
+</p>
 
-Projeto construído para praticar meus conhecimentos em HTML, CSS e JavaSCript.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-[Clique aqui para acessar] (https://santosrobertin.github.io/Calculadora-de-IMC)
+<br>
 
-## Tecnologias
+<p align="center">
+  <img alt="Coffe-Page" src=".github/PreviewCalcIMC.png" width="50%">
+</p>
 
-- HTML
-- CSS
-- JavaScript
+## 🚀 Tecnologias
 
-## Contato
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-betoads.santos@gmail.com
+✅ Uso semântico do HTML
+✅ CSS
+✅ JS
+✅ Git
+
+<br>
+
+## 💻 Projeto
+
+Esse projeto foi desenvolvido como pratica em meus conhecimentos em desenvolvimento front-end.
+
+<br>
+
+---
+
+<p align="center">by betox.santos</p>
