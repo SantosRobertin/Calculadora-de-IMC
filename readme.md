@@ -1,4 +1,4 @@
-<h1 align="center"> Coffe Page </h1>
+<h1 align="center"> Calculadora de IMC </h1>
 
 <p align="center">
 Roberto Santos <br/>
